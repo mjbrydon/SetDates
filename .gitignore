@@ -4,3 +4,7 @@
 /archive-backup/
 /graphics/
 /*.ipynb
+
+# confidential files
+/StudentExtensions.xlsx
+/config.json
